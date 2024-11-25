@@ -2,7 +2,6 @@
 
 MoniePoint Assessment
 
-## Getting Started
 
 Replica of Real Estate App Design for Moniepoint Flutter Engineering Assessment
 
